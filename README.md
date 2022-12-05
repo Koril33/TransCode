@@ -10,17 +10,17 @@
 ## Table of contents
 0. [Code convention](https://github.com/Koril33/TransCode/tree/main/CodeConvention) 
 1. Basic concept
-    1.1 基本数据类型、变量、常量
-    1.2 if...else... 分支判断
-    1.3 for & while 循环语句
-    1.4 函数
-    1.5 作用域
+    * 基本数据类型、变量、常量
+    * if...else... 分支判断
+    * for & while 循环语句
+    * 函数
+    * 作用域
 2. Collection
-    1.1 Array
-    1.2 List
-    1.3 Map
-    1.4 Set
-    1.5 Sort
+    * Array
+    * List
+    * Map
+    * Set
+    * Sort
 3. IO
 4. Time
 5. Regex
