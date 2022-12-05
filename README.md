@@ -10,7 +10,9 @@
 ## Table of contents
 0. [Code convention](https://github.com/Koril33/TransCode/tree/main/CodeConvention) 
 1. Basic concept
-    * 基本数据类型、变量、常量
+    * [基本数据类型](https://github.com/Koril33/TransCode/tree/main/BasicConcept/DataTypes)
+    * 变量
+    * 常量
     * if...else... 分支判断
     * for & while 循环语句
     * 函数
